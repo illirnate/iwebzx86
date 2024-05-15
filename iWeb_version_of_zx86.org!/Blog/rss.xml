@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>My Travels</title>
+    <link>http://zx86.org/iWeb_version_of_zx86.org%21/Blog/Blog.html</link>
+    <description>Donec arcu risus diam amet sit. Congue tortor cursus risus vestibulum commodo nisl, luctus augue amet quis aenean maecenas sit, donec velit iusto, morbi felis elit et nibh. Vestibulum volutpat dui lacus consectetuer, mauris at suspendisse.</description>
+    <generator>iWeb 3.0.2</generator>
+    <image>
+      <url>http://zx86.org/iWeb_version_of_zx86.org%21/Blog/Blog_files/rbds_77B.jpg</url>
+      <title>My Travels</title>
+      <link>http://zx86.org/iWeb_version_of_zx86.org%21/Blog/Blog.html</link>
+    </image>
+    <item>
+      <title>Call me a garfield comic.</title>
+      <link>http://zx86.org/iWeb_version_of_zx86.org%21/Blog/Entries/2024/5/15_Call_me_a_garfield_comic..html</link>
+      <guid isPermaLink="false">2e96acdc-b8ec-41d4-8a51-d668668b0bc8</guid>
+      <pubDate>Wed, 15 May 2024 16:03:48 +0300</pubDate>
+      <description>&lt;a href=&quot;http://zx86.org/iWeb_version_of_zx86.org%21/Blog/Entries/2024/5/15_Call_me_a_garfield_comic._files/rbhh_0053B.jpg&quot;&gt;&lt;img src=&quot;http://zx86.org/iWeb_version_of_zx86.org%21/Blog/Media/object001_3.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:364px; height:173px;&quot;/&gt;&lt;/a&gt;Call me a garfield comic again and I’ll lorem ipsum your ass.</description>
+      <enclosure url="http://zx86.org/iWeb_version_of_zx86.org%21/Blog/Entries/2024/5/15_Call_me_a_garfield_comic._files/rbhh_0053B.jpg" length="34583" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>YEAAA</title>
+      <link>http://zx86.org/iWeb_version_of_zx86.org%21/Blog/Entries/2024/5/15_YEAAA.html</link>
+      <guid isPermaLink="false">7981b21d-4653-40d1-bb6a-871f5d2f6244</guid>
+      <pubDate>Wed, 15 May 2024 16:03:33 +0300</pubDate>
+      <description>&lt;a href=&quot;http://zx86.org/iWeb_version_of_zx86.org%21/Blog/Entries/2024/5/15_YEAAA_files/rbhh_0053B.jpg&quot;&gt;&lt;img src=&quot;http://zx86.org/iWeb_version_of_zx86.org%21/Blog/Media/object001_4.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:364px; height:173px;&quot;/&gt;&lt;/a&gt;Cool.</description>
+      <enclosure url="http://zx86.org/iWeb_version_of_zx86.org%21/Blog/Entries/2024/5/15_YEAAA_files/rbhh_0053B.jpg" length="34583" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Frick Frack Frickity Frack.&#13;</title>
+      <link>http://zx86.org/iWeb_version_of_zx86.org%21/Blog/Entries/2024/5/15_Frick_Frack_Frickity_Frack..html</link>
+      <guid isPermaLink="false">24952038-49f9-4121-b19f-85115ca198d4</guid>
+      <pubDate>Wed, 15 May 2024 16:03:05 +0300</pubDate>
+      <description>&lt;a href=&quot;http://zx86.org/iWeb_version_of_zx86.org%21/Blog/Entries/2024/5/15_Frick_Frack_Frickity_Frack._files/rbhh_0053B.jpg&quot;&gt;&lt;img src=&quot;http://zx86.org/iWeb_version_of_zx86.org%21/Blog/Media/object001_5.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:364px; height:173px;&quot;/&gt;&lt;/a&gt;Yea yea yea, This is a blogpost, I think.</description>
+      <enclosure url="http://zx86.org/iWeb_version_of_zx86.org%21/Blog/Entries/2024/5/15_Frick_Frack_Frickity_Frack._files/rbhh_0053B.jpg" length="34583" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>

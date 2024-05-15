@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>http://zx86.org/iWeb_version_of_zx86.org!/Blog</link>
+    <description>Donec arcu risus diam amet sit. Congue tortor cursus risus vestibulum commodo nisl, luctus augue amet quis aenean maecenas sit, donec velit iusto, morbi felis elit et nibh. Vestibulum volutpat dui lacus consectetuer, mauris at suspendisse.</description>
+    <item>
+      <title>Call me a garfield comic.</title>
+      <link>http://zx86.org/iWeb_version_of_zx86.org%21/Blog/Entries/2024/5/15_Call_me_a_garfield_comic..html</link>
+      <guid isPermaLink="false">2e96acdc-b8ec-41d4-8a51-d668668b0bc8</guid>
+      <pubDate>Wed, 15 May 2024 16:03:48 +0300</pubDate>
+      <description>Call me a garfield comic again and I&#x2019;ll lorem ipsum your ass.</description>
+      <iweb:image href="Media/object001.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://zx86.org/iWeb_version_of_zx86.org%21/Blog/Entries/2024/5/15_Call_me_a_garfield_comic..html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>YEAAA</title>
+      <link>http://zx86.org/iWeb_version_of_zx86.org%21/Blog/Entries/2024/5/15_YEAAA.html</link>
+      <guid isPermaLink="false">7981b21d-4653-40d1-bb6a-871f5d2f6244</guid>
+      <pubDate>Wed, 15 May 2024 16:03:33 +0300</pubDate>
+      <description>Cool.</description>
+      <iweb:image href="Media/object001_1.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://zx86.org/iWeb_version_of_zx86.org%21/Blog/Entries/2024/5/15_YEAAA.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Frick Frack Frickity Frack.&#13;</title>
+      <link>http://zx86.org/iWeb_version_of_zx86.org%21/Blog/Entries/2024/5/15_Frick_Frack_Frickity_Frack..html</link>
+      <guid isPermaLink="false">24952038-49f9-4121-b19f-85115ca198d4</guid>
+      <pubDate>Wed, 15 May 2024 16:03:05 +0300</pubDate>
+      <description>Yea yea yea, This is a blogpost, I think.</description>
+      <iweb:image href="Media/object001_2.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://zx86.org/iWeb_version_of_zx86.org%21/Blog/Entries/2024/5/15_Frick_Frack_Frickity_Frack..html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
+    <iweb:baseURL>http://zx86.org/iWeb_version_of_zx86.org!/Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>
