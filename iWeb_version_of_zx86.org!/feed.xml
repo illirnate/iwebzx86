@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:6F03F740-A169-4D07-B4D7-791E8C44C543</id>
+ <title>Page list Atom feed</title>
+ <updated>2024-05-15T16:05:44+03:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:4077E69F-1EBF-4B16-9E42-C36EB3C64FB6</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">4077E69F-1EBF-4B16-9E42-C36EB3C64FB6</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2024-05-15T16:05:44.001+03:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:FAFBE7D0-4CEA-41CA-8989-85E55466983B</id>
+  <title>About Me</title>
+  <title xmlns="urn:iweb:">About Me</title>
+  <in-navbar xmlns="urn:iweb:">FAFBE7D0-4CEA-41CA-8989-85E55466983B</in-navbar>
+  <link rel="alternate" href="About_Me.html"/>
+  <updated>2024-05-15T16:05:44.002+03:00</updated>
+  <content>About Me</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:03D27F14-2B99-400E-990D-3737150AC39F</id>
+  <title>Movie</title>
+  <title xmlns="urn:iweb:">Movie</title>
+  <in-navbar xmlns="urn:iweb:">03D27F14-2B99-400E-990D-3737150AC39F</in-navbar>
+  <link rel="alternate" href="Movie.html"/>
+  <updated>2024-05-15T16:05:44.003+03:00</updated>
+  <content>Movie</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:1BAF14AC-FBAC-4587-822F-1BFC3F4A138A</id>
+  <title>Blog</title>
+  <title xmlns="urn:iweb:">Blog</title>
+  <in-navbar xmlns="urn:iweb:">1BAF14AC-FBAC-4587-822F-1BFC3F4A138A</in-navbar>
+  <link rel="alternate" href="Blog/Blog.html"/>
+  <updated>2007-03-01T19:29:51+02:00</updated>
+  <content>Blog</content>
+ </entry>
+</feed>
