@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="59A368D9-377D-4530-BD89-F5833AB2F1DF">
+  <lastEdited clientType="local-build-20240515" date="2024-05-15 13:05:47 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Evan&#x2019;s World</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Call me a garfield comic.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Wednesday, May 15, 2024</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="15_Call_me_a_garfield_comic._files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Call me a garfield comic again and I&#x2019;ll lorem ipsum your ass.</richText>
+  </textBox>
+</content>
